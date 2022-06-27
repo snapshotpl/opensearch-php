@@ -70,8 +70,6 @@ class SmartSerializer implements SerializerInterface
     }
 
     /**
-     * @todo For 2.0, remove the E_NOTICE check before raising the exception.
-     *
      * @param string|null $data
      *
      * @return array
